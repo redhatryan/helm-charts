@@ -11,7 +11,7 @@ entries:
     - name: Ryan Etten
     name: argocd-app-of-apps
     sources:
-    - https://github.com/redhatryan/argocd-app-of-app-chart/argocd-app-of-apps-chart
+    - https://github.com/redhatryan/argocd-app-of-app-chart/argocd-app-of-app-chart
     type: application
     urls:
     - https://redhatryan.github.io/helm-charts/argocd-app-of-app/argocd-app-of-app-0.1.0.tgz
